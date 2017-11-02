@@ -2,6 +2,8 @@ Hi This is my first git file.
 
 statement one - 1
 
+statement three - 3
+
 Saved.
 
 thank you :)
