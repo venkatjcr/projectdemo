@@ -1,0 +1,7 @@
+Hi This is my first git file.
+
+statement one - 1
+
+Saved.
+
+thank you :)
