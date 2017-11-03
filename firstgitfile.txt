@@ -6,6 +6,8 @@ statement two -2
 
 statement three - 3
 
+----This text is added in the demo-branch-v1.0----
+
 Saved.
 
 thank you :)
